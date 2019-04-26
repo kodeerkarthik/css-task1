@@ -1,0 +1,63 @@
+#d1
+{
+	background-image: url(../images/img1.jpg);
+	height: 120px;
+	width: 100%;
+}
+#dd1
+{
+	height: 100px;
+	width: 20%;
+	float: left;
+}
+#dd2
+{
+	height: 100px; color: red;font-weight: bolder;
+	width: 100%;
+	font-size: 50px;
+	text-align: center;
+	float: center;
+}
+#dd3
+{
+	height: 120px;
+	width: 10%;
+	float: right;
+}
+
+.main
+{	background-image: linear-gradient(yellow,orange);
+	height:25px;
+	
+}
+span
+{
+		padding: 10px;
+}
+h1
+{
+	color: red;
+	background-image: radial-gradient(yellow,green);
+	font-size: xx-large;
+	border: 2px solid tomato;
+	border-color:black;
+}
+.second {
+	background-color: #cccccc;
+	font-weight: bold;
+	border: 10px outset red;
+	margin: 50px 100px 0 900px;
+}
+#login
+{
+	padding: 50px;
+	color: red;
+	font-weight: bold;
+}
+
+input
+{
+	background-color: #47d1d1;
+	font-weight: bold;
+	color: yellow;
+}

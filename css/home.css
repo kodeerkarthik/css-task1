@@ -1,0 +1,55 @@
+#d1
+{
+	background-image: url(../images/img1.jpg);
+	height: 120px;
+	width: 100%;
+}
+#dd1
+{
+	height: 100px;
+	width: 20%;
+	float: left;
+}
+#dd2
+{
+	height: 100px; color: red;font-weight: bolder;
+	width: 100%;
+	font-size: 50px;
+	text-align: center;
+	float: center;
+}
+#dd3
+{
+	height: 120px;
+	width: 10%;
+	float: right;
+}
+
+fieldset
+{
+	background-image: linear-gradient(yellow,orange);
+	height:25px;
+	
+}
+span
+{
+		padding: 10px;
+}
+.A
+{
+	background-image: linear-gradient(gold,red);
+	text-align: center;
+	font-weight: bolder;
+	padding-top:20px;
+	height: 30px;
+	width: 300px;
+}
+.B
+{
+	float:right;
+}
+a
+{
+	text-decoration: none;
+	font-weight: bold;
+}
